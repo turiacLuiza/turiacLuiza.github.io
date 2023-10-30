@@ -1,4 +1,5 @@
 # [Numele Tău]
+[total.station.image](/assets/img/statietotala.png)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
